@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .center-container {
+    text-align: center;
+  }
+  .save-button {
+    text-align: right;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+  }
